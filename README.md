@@ -2,7 +2,7 @@
 A collection of master mold CAD files from the [maskless.co](http://maskless.co) community.
 
 #Instructions
-Choose an example or template to start from, modify to your needs, then head over to [maskless.co](http://maskless.co) to [place your order](https://shop.trycelery.com/page/58bde872bcc8c012009c42f1).
+Choose an example or template to start from, modify to your needs, then head over to [maskless.co](http://maskless.co) to [place your order](https://shop.trycelery.com/page/58bde872bcc8c012009c42f1). Detailed instructions [here](https://github.com/masklessco/mastermolds/blob/master/instructions/README.md)
 
 Get 20% off when you share your design! Enter coupon code 'sharealike', and we will upload your design file to our public GitHub repository with a CC-BY-SA license.
 
