@@ -1,3 +1,6 @@
+#Design your device
+Head over to the templates folder to download the mold template of your choice. Design your microfluidic master mold. Be sure to follow our suggeted [design guidelines] (https://github.com/masklessco/mastermolds/blob/master/instructions/Maskless_Design_Rules_Tolerances_v1.mdown). Email your design to molds@maskless.co and [place your order](https://shop.trycelery.com/page/58bde872bcc8c012009c42f1). Your design will be treated as confidential unless you use the 'sharealike' coupon code, in which case we will upload your CAD file to this repository.
+
 #What's in the Box
 
 1.	Mold(s) of large or small size, with or without walls
@@ -5,7 +8,7 @@
 
 
 
-#Maskless Instructions
+#PDMS Casting Instructions
 
  1.	Remove Maskless mold from packaging. Place mold in a petri dish or aluminum foil dish to prevent spilling of PDMS throughout the process below.  
  2.	Dry mold at 80 ºC for 30 to 60 minutes prior to first use. Allow mold to return to room temperature.
