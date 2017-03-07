@@ -1,5 +1,5 @@
 # Master Molds
-A collection of master mold CAD files from the maskless.co community.
+A collection of master mold CAD files from the http://maskless.co community.
 
 #Instructions
 Choose an example or template to start from, modify to your needs, then head over to maskless.co to place your order.
