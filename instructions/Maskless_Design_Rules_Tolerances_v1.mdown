@@ -3,7 +3,7 @@ Design Rules
 - Channel size >/= 100 um in width in increments of 50 um
 - Channel sizes >/= 50 um in height in increments of 25 um (to be improved to 10 um)
 - Spacing between channels >/= 0.5 mm
-- Overall printable are within 30 mm x 50 mm
+- Overall printable area within 8.5 mm x 24 mm
 
 Tolerances
 
