@@ -12,7 +12,7 @@
  3.	Prepare PDMS precursor according to desired protocol. A recommended procedure is as follows:
  a)	Weigh Sylgard 184 parts A and B in a 10:1 ratio by weight and mix thoroughly.
  b)	Degass the PDMS precursor under vacuum until all visible bubbles disappear.
- 4.	For molds with walls: pour the PDMS precursor into the mold. The volume of PDMS precursor may be weighed in order to keep the thickness of the device consistent: use up to 0.9 mL for the small sized molds and up to 4 mL for the large sized molds. For molds without walls, place mold in a plastic or aluminum foil petri dish and pour PDMS on top of the mold.
+ 4.	For molds with walls: pour the PDMS precursor into the mold. The volume of PDMS precursor may be measured in order to keep the thickness of the device consistent: use up to 0.9 mL for the small sized molds and up to 4 mL for the large sized molds. For molds without walls, place mold in a plastic or aluminum foil petri dish and pour PDMS on top of the mold.
  5.	Degass the PDMS for a second time in the mold.
  6.	Cure the PDMS in the mold. Oven curing at 80 ºC for 15 – 40 minutes is recommended. Remove the mold from heat and allow to cool to room temperature.
  7.	Use a flat tweezer or other small, flat edge to dislodge PDMS from mold on one end of the mold. Use the tweezers to pull the PDMS out of the mold.
