@@ -5,7 +5,7 @@ Design Rules
 - Spacing between channels >/= 0.5 mm (omitting where channels intersect)
 - for channels </= 300 um in width, keep aspect ratio between 2:1 to 1:2
 - for features > 300 um in width, no restriction on aspect ratio or maximum height of feature
-- Overall printable area within 8.5 mm x 24 mm for small sized molds (medium-sized molds available soon)
+- Overall printable design area within 8.5 mm x 24 mm for small sized molds (medium-sized molds available soon)
 
 Tolerances
 
