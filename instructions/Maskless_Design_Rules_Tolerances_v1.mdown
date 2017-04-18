@@ -9,8 +9,8 @@ Design Rules
 
 Tolerances
 
-* XY: +/- 30%
-* Z: +/- 20%
+* XY: +45um/-21um
+* Z: +21%/-11%
 * Wall steepness for rectangular channels ~85-90 degrees
 * RMS of channel floor/plateau ~0.1-0.5 um
 * radius of curvature where perpendicular channels meet: ~140-190 um
