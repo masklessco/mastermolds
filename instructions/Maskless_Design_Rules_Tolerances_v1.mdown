@@ -1,7 +1,7 @@
 Design Rules
 
 - Channel size >/= 100 um in width in increments of 50 um
-- Channel sizes >/= 50 um in height in increments of 25 um (to be improved to 10 um)
+- Channel sizes >/= 50 um in height in increments of 25 um
 - Spacing between channels >/= 0.5 mm (omitting where channels intersect)
 - for channels </= 300 um in width, keep aspect ratio between 2:1 to 1:2
 - for features > 300 um in width, no restriction on aspect ratio or maximum height of feature
@@ -9,8 +9,8 @@ Design Rules
 
 Tolerances
 
-* XY: +45um/-21um
-* Z: +21%/-11%
+* XY: +/-45 um for features up to 500um in width
+* Z: +/-30 um
 * Wall steepness for rectangular channels ~85-90 degrees
 * RMS of channel floor/plateau ~0.1-0.5 um
 * radius of curvature where perpendicular channels meet: ~140-190 um
